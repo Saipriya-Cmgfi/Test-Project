@@ -2,7 +2,7 @@
   "name": "rental-to-owner-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Saipriya-Cmgfi.github.io/Test-Project/rental-to-owner-identifier",
+  "homepage": "https://Saipriya-Cmgfi.github.io/Test-Project/rental-to-owner-identifier/dashboard",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
